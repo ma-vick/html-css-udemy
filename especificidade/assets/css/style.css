@@ -1,0 +1,11 @@
+body#b.bclass p#p.p {
+    background: purple;
+}
+
+#p {
+    background: red;
+}
+
+.p {
+    background: yellow;
+}

@@ -1,0 +1,26 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    background-color: rgb(255, 252, 158);
+}
+
+.caixa {
+    width: 120px;
+    height: 120px;
+    background-color: pink;
+    border: 10px solid white;
+    border-bottom: 50px solid white;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.15);
+}
+
+.caixinha {
+    width: 120px;
+    height: 120px;
+    background-color: skyblue;
+    border: 10px solid white;
+    border-bottom: 50px solid white;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.15);
+}
